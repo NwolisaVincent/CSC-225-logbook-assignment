@@ -1,0 +1,10 @@
+- Cubic Spline Interpolation
+- Discrete Fourier Transform (Find the time complexity too)
+- Fast Fourier Transform (Find the time complexity too)
+- Linear System of Equation   
+- Write a Doolittle LU (Lower-Upper) algorithm for Linear System
+    Use the algorithm to solve
+    x1 - x2 + 3x3 + 2x4 = 15
+    x1 + 5x2 - 5x3 - 2x4 = -35
+    3x1 - 5x2 + 19x3 + 3x4 = 94
+    2x1 - 2x2 + 3x3 + 21x4 = 1
